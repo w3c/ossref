@@ -1552,7 +1552,7 @@
       "name": "WebMCP Polyfill",
       "description": "WebMCP polyfill",
       "description_html": "WebMCP polyfill",
-      "homepage": "https://github.com/w3c-oss/webmcp-polyfill",
+      "homepage": "https://www.npmjs.com/package/@w3c/webmcp-polyfill",
       "repository": "https://github.com/w3c-oss/webmcp-polyfill",
       "owner": "w3c-oss",
       "licenses": ["Apache-2.0"],
