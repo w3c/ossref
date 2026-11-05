@@ -169,7 +169,7 @@
       "categories": ["implementation", "tool"]
     },
     "cg-assets": {
-      "name": "cg-assets",
+      "name": "w3c/cg-spec-assets",
       "description": "Assets for Community Groups",
       "description_html": "Assets for Community Groups",
       "homepage": "https://github.com/w3c/cg-assets",
