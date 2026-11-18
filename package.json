@@ -27,9 +27,9 @@
   "devDependencies": {
     "ajv": "^8.20.0",
     "ajv-formats": "^3.0.1",
-    "commander": "^15.0.0",
+    "commander": "^15.1.0",
     "hast-util-to-string": "^3.0.1",
-    "prettier": "^3.9.8",
+    "prettier": "^3.9.10",
     "quicktype": "^26.0.0",
     "rehype-parse": "^9.0.1",
     "rehype-stringify": "^10.0.1",
