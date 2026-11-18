@@ -266,8 +266,8 @@
     },
     "echidna": {
       "name": "Echidna",
-      "description": "New publication workflow at W3C — main component",
-      "description_html": "New publication workflow at W3C — main component",
+      "description": "Automatic publication workflow at W3C — main component",
+      "description_html": "Automatic publication workflow at W3C — main component",
       "homepage": "https://labs.w3.org/echidna/",
       "repository": "https://github.com/w3c/echidna",
       "owner": "W3C",
