@@ -1420,7 +1420,7 @@
       "name": "Specification 'vcalm-test-suite'",
       "description": "Interoperability tests for implementations of VCALM (Verifiable Credential API for Lifecycle Management).",
       "description_html": "Interoperability tests for implementations of <a href=\"https://www.w3.org/TR/vcalm-1.0/\">VCALM</a> (Verifiable Credential API for Lifecycle Management).",
-      "homepage": "https://github.com/w3c/vcalm-test-suite",
+      "homepage": "https://w3c.github.io/vcalm-test-suite/",
       "repository": "https://github.com/w3c/vcalm-test-suite",
       "owner": "W3C",
       "licenses": ["BSD-3-Clause", "W3C-Test-Suite"],
